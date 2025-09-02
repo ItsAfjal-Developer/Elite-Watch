@@ -27,7 +27,7 @@ Below is a Preview of **Elite Watch**, Showcasing the Layout and Styling impleme
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 - **Dark Theme**
-<img src="images/Screenshot1.png" alt="Elite Watch" width="100%" />
+<img src="images/Screenshot2.png" alt="Elite Watch" width="100%" />
 
 - **Light Theme**
-<img src="images/Screenshot2.png" alt="Elite Watch" width="100%" />
+<img src="images/Screenshot1.png" alt="Elite Watch" width="100%" />
