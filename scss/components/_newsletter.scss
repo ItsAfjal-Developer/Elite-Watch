@@ -1,0 +1,33 @@
+/*=============== NEWSLETTER ===============*/
+.newsletter {
+  &__bg {
+    row-gap: 2.5rem;
+    text-align: center;
+    padding: 3rem 1.5rem;
+    background-color: var(--first-color);
+  }
+
+  &__title {
+    color: hsl(0, 0%, 15%);
+    margin-bottom: var(--mb-1-5);
+    font-size: var(--h1-font-size);
+  }
+
+  &__description {
+    color: hsl(0, 0%, 35%);
+  }
+
+  &__subscribe {
+    display: flex;
+    row-gap: 0.75rem;
+    flex-direction: column;
+  }
+
+  &__input {
+    border: none;
+    outline: none;
+    padding: 1.25rem 1rem;
+    color: hsl(0, 0%, 15%);
+    background-color: hsl(0, 0%, 94%);
+  }
+}

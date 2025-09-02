@@ -1,0 +1,39 @@
+/*=============== REUSABLE CSS CLASSES ===============*/
+.container {
+  max-width: 1024px;
+  margin-left: var(--mb-1-5);
+  margin-right: var(--mb-1-5);
+}
+
+.grid {
+  display: grid;
+}
+
+.main {
+  overflow: hidden; // For animation
+}
+
+.section {
+  padding: 6.5rem 0 1rem;
+
+  &__title {
+    text-align: center;
+    position: relative;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: var(--mb-3);
+    font-size: var(--h3-font-size);
+
+    &::before {
+      left: 0;
+      right: 0;
+      top: -1rem;
+      width: 67px;
+      height: 1px;
+      content: "";
+      margin: 0 auto;
+      position: absolute;
+      background-color: var(--first-color);
+    }
+  }
+}
