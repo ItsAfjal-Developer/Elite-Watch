@@ -4,7 +4,7 @@ With a Minimalist Black & White Theme and Sleek Product Showcases, this Project 
 
 ## Project Overview
 - **Elite Watches is a concept-based Website I built to enhance my Frontend Development Skills and Learn Practical Deployment Techniques.
-  My Vision was to Create a Platform that could easily Represent a Real E-Commerce Brand with Security , Scalability and Performance in Mind.**
+  My Vision was to Create a Platform that could easily Represent a Real E-Commerce Brand with Security, Scalability and Performance in Mind.**
 
 ## Tech Stack
 - **HTML | CSS | JavaScript | Swiper.js | Netlify (PaaS) | HSTS Security Headers | jsDelivr CDN**
