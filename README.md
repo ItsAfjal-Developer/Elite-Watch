@@ -23,7 +23,7 @@ With a Minimalist Black & White Theme and Sleek Product Showcases, this Project 
 
 ## 📸Screenshots
 
-Below is a Preview of **Elite Watch**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
+Below is a Preview of **Elite Watch**, Showcasing the Layout and Styling implemented Using pure HTML, CSS and Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 - **Dark Theme**
